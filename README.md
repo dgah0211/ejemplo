@@ -8,4 +8,9 @@ mas lineas
 
 */
 
+<<<<<<< HEAD
 Documentacion DEV 1
+=======
+
+Documentacion del Desarrollador 2
+>>>>>>> dev2
